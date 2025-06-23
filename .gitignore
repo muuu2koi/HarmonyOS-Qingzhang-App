@@ -1,0 +1,25 @@
+# HarmonyOS build and IDE files
+/build
+/node_modules
+/.hvigor
+/.idea
+/.vscode
+/.hbuilderx
+
+# Harmony OS specific files
+*.hap
+*.so
+*.db
+*.p7b
+*.p12
+*.pem
+*.cer
+*.zip
+*.local
+
+# Generated files
+*.log
+
+# OS related
+.DS_Store
+Thumbs.db
