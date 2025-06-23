@@ -4,10 +4,10 @@
 
 ## 应用截图
 
-![应用截图1](./screenshots/1.png)
-![应用截图2](./screenshots/2.png)
-![应用截图3](./screenshots/3.png)
-![应用截图4](./screenshots/4.png)
+| | |
+|:-------------------------:|:-------------------------:|
+| <img src="screenshots/1.png" width="300" /> | <img src="screenshots/2.png" width="300" /> |
+| <img src="screenshots/3.png" width="300" /> | <img src="screenshots/4.png" width="300" /> |
 
 ## 功能特点
 
