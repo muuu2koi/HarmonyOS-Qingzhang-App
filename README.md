@@ -4,12 +4,10 @@
 
 ## 应用截图
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="./screenshots/1.png" width="200" alt="应用截图1"/>
-  <img src="./screenshots/2.png" width="200" alt="应用截图2"/>
-  <img src="./screenshots/3.png" width="200" alt="应用截图3"/>
-  <img src="./screenshots/4.png" width="200" alt="应用截图4"/>
-</div>
+![应用截图1](./screenshots/1.png)
+![应用截图2](./screenshots/2.png)
+![应用截图3](./screenshots/3.png)
+![应用截图4](./screenshots/4.png)
 
 ## 功能特点
 
