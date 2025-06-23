@@ -12,7 +12,7 @@
 
 ## 技术栈
 
-- HarmonyOS API 6+
+- HarmonyOS API 12+
 - ArkTS
 - Stage模型
 - 关系型数据库 
